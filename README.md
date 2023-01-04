@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="1000px"></h1>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Benjamin</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Dallas, Texas.</h3>
+<h3 align="center">I'm a passionate Data Analyst from Dallas, Texas.</h3>
 
 
 ## 🙋‍♂️ About Me
